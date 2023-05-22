@@ -1,0 +1,142 @@
+*{
+	box-sizing: border-box;
+}
+.red1{
+	margin-left: 50px;
+	font-size: 80px;
+	padding: 0;
+}
+.chocolate{
+	background: lightblue;
+	height: 700px;
+	width: 1330px;
+	font-family: 'Jura', sans-serif;
+}
+.red45{
+	background: red;
+	width: 270px;
+	height: 40px;
+	margin-left: 50px;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+.orange1{
+	float: right;
+	width: 690px;
+	height: 512px;
+	display: inline-block;
+	margin-right: 40px;
+}
+.red{
+	padding-top: 150px;
+	margin-left: 50px;
+	font-size: 80px;
+	margin-top: 5px;
+}
+.section_2{
+	height: 430px;
+	width: 1330px;
+	background: red;
+    font-family: 'Jura';
+}
+.h_1{
+	text-align: center;
+	color: white;
+	padding-top: 26px;
+}
+.div_2{
+	width: 260px;
+	height: 250px;
+	background: #258A86;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;
+}
+.p1{
+	margin-left: 10px;
+
+}
+.p2{
+	margin-left: 10px;
+}
+.div_1{
+	width: 260px;
+	height: 250px;
+	background:white;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;
+}
+ .img_1{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+
+ .img_2{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .img_3{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .img_4{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .h_10{
+	text-align: center;
+	color: white;
+	padding-top: 26px;
+}
+.div4{
+	width: 260px;
+	height: 250px;
+	background: white;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;
+}
+.p3{
+	margin-left: 10px;
+
+}
+.p4{
+	margin-left: 10px;
+}
+.div3{
+	width: 260px;
+	height: 250px;
+	background: yellow;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;
+}
+ .img_1{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+
+ .img_2{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .img_3{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .img_4{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .section_3{
+ 	background: lightblue;
+ 	height: 430px;
+	width: 1330px;
+	font-family: 'Jura';
+ }
